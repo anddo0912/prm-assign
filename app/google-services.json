@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542419598279",
+    "firebase_url": "https://foodorderassignment-954b0-default-rtdb.firebaseio.com",
+    "project_id": "foodorderassignment-954b0",
+    "storage_bucket": "foodorderassignment-954b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542419598279:android:f32d425b8eef03484a77e2",
+        "android_client_info": {
+          "package_name": "com.example.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542419598279-tui78iersi0jtej0bjiqomeigqskpe5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1QMvps8iXGKLeuFrsEEcq5FSlxo66Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542419598279-tui78iersi0jtej0bjiqomeigqskpe5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
